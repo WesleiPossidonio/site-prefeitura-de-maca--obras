@@ -50053,4 +50053,8 @@ footer.bg-dark.angled.upper-start:before {
 .text-white a{
     color:#fff !important}
 
-
+    @media (max-width: 768px) { 
+        .scroll-none {
+            pointer-events: none;
+        }
+    }
