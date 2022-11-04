@@ -22,88 +22,129 @@ const idA21 = document.getElementById('link21')
 
 
 idA1.addEventListener('touchstart', () => {
+    const link = idA1.href
     idA1.removeAttribute("href");
- }, false);
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA2.addEventListener('touchstart', () => {
+idA2.addEventListener('touchstart', () => {
+    const link = idA2.href
     idA2.removeAttribute("href");
- }, false);
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA3.addEventListener('touchstart', () => {
+idA3.addEventListener('touchstart', () => {
+    const link = idA3.href
     idA3.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA4.addEventListener('touchstart', () => {
+idA4.addEventListener('touchstart', () => {
+    const link = idA4.href
     idA4.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA5.addEventListener('touchstart', () => {
+idA5.addEventListener('touchstart', () => {
+    const link = idA5.href
     idA5.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA6.addEventListener('touchstart', () => {
+idA6.addEventListener('touchstart', () => {
+    const link = idA6.href
     idA6.removeAttribute("href");
- }, false);  
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA7.addEventListener('touchstart', () => {
+idA7.addEventListener('touchstart', () => {
+    const link = idA7.href
     idA7.removeAttribute("href");
- }, false);
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA8.addEventListener('touchstart', () => {
+idA8.addEventListener('touchstart', () => {
+    const link = idA8.href
     idA8.removeAttribute("href");
- }, false);
-  
- idA9.addEventListener('touchstart', () => {
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
+
+idA9.addEventListener('touchstart', () => {
+    const link = idA9.href
     idA9.removeAttribute("href");
- }, false);
-  
- idA10.addEventListener('touchstart', () => {
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
+
+idA10.addEventListener('touchstart', () => {
+    const link = idA10.href
     idA10.removeAttribute("href");
- }, false);
-  
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA11.addEventListener('touchstart', () => {
+
+idA11.addEventListener('touchstart', () => {
+    const link = idA11.href
     idA11.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA12.addEventListener('touchstart', () => {
+idA12.addEventListener('touchstart', () => {
+    const link = idA12.href
     idA12.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA13.addEventListener('touchstart', () => {
+idA13.addEventListener('touchstart', () => {
+    const link = idA13.href
     idA13.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA14.addEventListener('touchstart', () => {
+idA14.addEventListener('touchstart', () => {
+    const link = idA14.href
     idA14.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA15.addEventListener('touchstart', () => {
+idA15.addEventListener('touchstart', () => {
+    const link = idA15.href
     idA15.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA16.addEventListener('touchstart', () => {
+idA16.addEventListener('touchstart', () => {
+    const link = idA16.href
     idA16.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA17.addEventListener('touchstart', () => {
+idA17.addEventListener('touchstart', () => {
+    const link = idA17.href
     idA17.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA18.addEventListener('touchstart', () => {
+idA18.addEventListener('touchstart', () => {
+    const link = idA18.href
     idA18.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA19.addEventListener('touchstart', () => {
+idA19.addEventListener('touchstart', () => {
+    const link = idA19.href
     idA19.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
 
- idA20.addEventListener('touchstart', () => {
+idA20.addEventListener('touchstart', () => {
+    const link = idA20.href
     idA20.removeAttribute("href");
- }, false); 
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
 
- idA21.addEventListener('touchstart', () => {
+idA21.addEventListener('touchstart', () => {
+    const link = idA21.href
     idA21.removeAttribute("href");
- }, false); 
-  
+    setTimeout(function(){window.top.location=`${link}`} , 2000)
+}, false);
